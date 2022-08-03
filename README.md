@@ -1,17 +1,17 @@
 # Smart-Contract-Security-Roadmap
 
-<h1>The Patrick Collins/fcc ULTIMATE Blockchain course</h1>
-<p style:"position: fixed">
-(00:00:00) Lesson 0: Welcome To Blockchain
-(00:09:05) Lesson 1: Blockchain Basics
-           (00:18:26): The purpose of Smart Contracts
-           (00:39:17): Your First Transaction
-           (00:59:00): Gas I: Introduction to Gas
-           (01:05:32): How do Blockchains work?
-           (01:22:56): Signing Transactions
-           (01:30:23): Gas II: Block Rewards & EIP 1559
-           (01:39:33): High-Level Blockchain Fundamentals
-(02:01:16) Lesson 2: Welcome to Remix! Simple Storage
+##The Patrick Collins/fcc ULTIMATE Blockchain course
+
+0. (00:00:00) Lesson 0: Welcome To Blockchain
+1. (00:09:05) Lesson 1: Blockchain Basics
+  -         (00:18:26): The purpose of Smart Contracts
+  -         (00:39:17): Your First Transaction
+  -         (00:59:00): Gas I: Introduction to Gas
+  -         (01:05:32): How do Blockchains work?
+  -         (01:22:56): Signing Transactions
+  -         (01:30:23): Gas II: Block Rewards & EIP 1559
+  -         (01:39:33): High-Level Blockchain Fundamentals
+2. (02:01:16) Lesson 2: Welcome to Remix! Simple Storage
            (02:05:17): Setting Up Your first Contract
            (02:12:29): Basic Solidity - Types
            (02:18:42): Basic Solidity - Functions
@@ -122,4 +122,3 @@
 (28:53:11) Lesson 16: Hardhat Upgrades
 (29:45:24) Lesson 17: Hardhat DAOs
 (31:28:32) Lesson 18: Security & Auditing
-</p>
