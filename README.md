@@ -2,8 +2,8 @@
 
 ##The Patrick Collins/fcc ULTIMATE Blockchain course
 
-0. (00:00:00) Lesson 0: Welcome To Blockchain
-1. (00:09:05) Lesson 1: Blockchain Basics
+###0. (00:00:00) Lesson 0: Welcome To Blockchain
+###1. (00:09:05) Lesson 1: Blockchain Basics
   -         (00:18:26): The purpose of Smart Contracts
   -         (00:39:17): Your First Transaction
   -         (00:59:00): Gas I: Introduction to Gas
@@ -11,7 +11,7 @@
   -         (01:22:56): Signing Transactions
   -         (01:30:23): Gas II: Block Rewards & EIP 1559
   -         (01:39:33): High-Level Blockchain Fundamentals
-2. (02:01:16) Lesson 2: Welcome to Remix! Simple Storage
+###2. (02:01:16) Lesson 2: Welcome to Remix! Simple Storage
   -         (02:05:17): Setting Up Your first Contract
   -         (02:12:29): Basic Solidity - Types
   -         (02:18:42): Basic Solidity - Functions
@@ -21,12 +21,12 @@
   -         (02:50:17): Basic Solidity - Mappings
   -         (02:53:38): Deploying your First Contract
   -         (03:03:08): The EVM & A Recap of Lesson 2
-3. (03:05:34) Lesson 3: Remix Storage Factory
+###3. (03:05:34) Lesson 3: Remix Storage Factory
   -         (03:07:29): Importing Contracts into other Contracts
   -         (03:16:37): Interacting with other contracts
   -         (03:25:24): Inheritance & Overrides
   -         (03:30:31): Lesson 3 Recap
-4. (03:31:55) Lesson 4: Remix Fund Me
+###4. (03:31:55) Lesson 4: Remix Fund Me
   -         (03:34:12): Sending Eth Through A function & Reverts
   -         (03:42:35): Chainlink & Oracles
   -         (04:00:31): Review - Sending ETH And working with Chainlink
@@ -48,7 +48,7 @@
   -         (05:12:57): Advanced Solidity - Custom Errors
   -         (05:15:45): Advanced Solidity - Receive & Fallback
   -         (05:27:59): Lesson 4 - Recap
-5. (05:30:42) Lesson 5: Ethers.js Simple 
+###5. (05:30:42) Lesson 5: Ethers.js Simple 
   -         (05:30:46): Effective Debugging Stratetgies & Getting Help
   -         (05:41:53): How to Debug Anything
   -         (05:53:47): Installation & Setup - Moving to local development
@@ -71,7 +71,7 @@
   -         (08:04:28): Verifying on Block Explorers (From the UI)
   -         (08:14:19): Lesson 5 Recap
   -         (08:17:08): Optional: Typescript
-6. (08:20:17) Lesson 6: Hardhat Simple Storage
+###6. (08:20:17) Lesson 6: Hardhat Simple Storage
   -         (08:29:42) Hardhat Setup Troubleshooting
   -         (08:31:50) Hardhat Setup Continued
   -         (08:33:10): Deploying SimpleStorage from Hardhat
@@ -88,7 +88,7 @@
   -         (09:47:01) Hardhat Waffle
   -         (09:47:37) Lesson 6 Recap 
   -         (09:52:20) Lesson 6 Typescript
-7. (10:00:48) Lesson 7: Hardhat Fund Me
+###7. (10:00:48) Lesson 7: Hardhat Fund Me
   -         (10:03:41): Hardhat Setup
   -         (10:06:21): Linting
   -         (10:07:47): Hardhat Setup Continued
@@ -111,14 +111,14 @@
   -         (12:17:57): Running Scripts on a Local Node
   -         (12:22:00): Adding scripts to your package.json
   -         (12:25:16): Pushing to Github
-8. (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
-9. (13:41:02) Lesson 9: Hardhat Smart Contract Lottery
-10. (16:34:07) Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
-11. (18:51:36) Lesson 11: Hardhat Starter Kit
-12. (18:59:24) Lesson 12: Hardhat ERC20s
-13. (19:16:13) Lesson 13: Hardhat DeFi & Aave
-14. (20:28:51) Lesson 14: Hardhat NFTs 
-15. (23:37:03) Lesson 15: NextJS NFT Marketplace (Full Stack / Front End)
-16. (28:53:11) Lesson 16: Hardhat Upgrades
-17. (29:45:24) Lesson 17: Hardhat DAOs
-18. (31:28:32) Lesson 18: Security & Auditing
+###8. (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
+###9. (13:41:02) Lesson 9: Hardhat Smart Contract Lottery
+###10. (16:34:07) Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
+###11. (18:51:36) Lesson 11: Hardhat Starter Kit
+###12. (18:59:24) Lesson 12: Hardhat ERC20s
+###13. (19:16:13) Lesson 13: Hardhat DeFi & Aave
+###14. (20:28:51) Lesson 14: Hardhat NFTs 
+###15. (23:37:03) Lesson 15: NextJS NFT Marketplace (Full Stack / Front End)
+###16. (28:53:11) Lesson 16: Hardhat Upgrades
+###17. (29:45:24) Lesson 17: Hardhat DAOs
+###18. (31:28:32) Lesson 18: Security & Auditing
