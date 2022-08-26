@@ -112,8 +112,29 @@
   -         (12:22:00): Adding scripts to your package.json
   -         (12:25:16): Pushing to Github
 ### 8. (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
+  -         (12:45:34): HTML Setup
+  -         (12:50:11): Connecting HTML to Metamask
+  -         (12:57:09): javascript in its own file
+  -         (12:59:13): ES6 (Front End JS) vs NodeJS
+  -         (13:07:58): Sending a Transaction from a Website
+  -         (13:19:01): Resetting an account in Metamask
+  -         (13:20:07): Listening for events and Completed Transactions
+  -         (13:30:42): Input Forms
+  -         (13:33:34): Reading from the Blockchain
+  -         (13:35:51): Withdraw Function
+  -         (13:38:53): Lesson 8 Recap### 9. (13:41:02) Lesson 9: Hardhat Smart Contract Lottery
 ### 9. (13:41:02) Lesson 9: Hardhat Smart Contract Lottery
+  -         (13:43:43) Hardhat Setup
+  -         (13:46:55) Raffle.sol Setup
+  -         (13:54:02) Introduction to Events
+  -         (14:00:47) Events in Raffle.sol
+  -         (14:02:30) Introduction to Chainlink VRF
+  -         (14:09:53) Implementing Chainlink VRF
 ### 10. (16:34:07) Lesson 10: NextJS Smart Contract Lottery (Full Stack / Front End)
+  -         (18:12:50) Introdunction to Hosting your Site
+  -         (18:18:51) Hosting on IPFS
+  -         (18:25:45) Hosting on IPFS & Filecoin using Fleek
+  -         (18:31:28) Filecoin Overview
 ### 11. (18:51:36) Lesson 11: Hardhat Starter Kit
 ### 12. (18:59:24) Lesson 12: Hardhat ERC20s
 ### 13. (19:16:13) Lesson 13: Hardhat DeFi & Aave
